@@ -2,7 +2,7 @@
 
 import random
 
-x = rand.randint(0, 1)
+x = random.randint(0, 1)
 
 def flip(int: x) -> str:
     if x == 1:
